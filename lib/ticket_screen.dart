@@ -3,8 +3,6 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:glass_flutter/widgets/containers/glass_container.dart';
 
-import 'widgets/animations/flight_animation.dart';
-
 class TicketScreen extends StatelessWidget {
   const TicketScreen({super.key});
 
